@@ -10,4 +10,4 @@ dev change
 another change!
 
 
-new feature1!
+冲突解决
